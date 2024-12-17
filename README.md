@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://imgflip.com/gif/9dfkx9]https://imgflip.com/gif/9dfkx9"/>
+<img align="right" height="150" src="https://imgflip.com/gif/9dfkx9"/>
 
 ###
 # 💻 Tech Stack:
