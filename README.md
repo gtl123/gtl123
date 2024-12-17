@@ -2,8 +2,8 @@
 
 
 <h2 align="left">Hello World!, I'm Gaurav, a Scottish Software Developer 👋</h2>
-🛜 currently working on my own [webpage](https://)<br>👨🏼‍🎓 studying media computer science at S5<br>👨🏼‍💻 learning  computing skills since 2019 <br>
-###
+🛜 currently working on my own Raspbery Pi<br>👨🏼‍🎓 studying media computer science at S5<br>👨🏼‍💻 learning  computing skills since 2019 <br>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gtl123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9dfkx9"/>
+<img align="right" height="150" src="https://i.imgflip.com/9dfkx9.gif"/>
 
 ###
 # 💻 Tech Stack:
