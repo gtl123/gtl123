@@ -13,6 +13,8 @@
           background-size: cover;
           color: #ff99ff;
           font-family: Arial, sans-serif;
+          margin:0;
+          padding:0;
         }
         .header {
           font-size: 2em;
@@ -30,6 +32,8 @@
           color: #ff99ff;
           font-family: Arial, sans-serif;
           font-size: 1.2em;
+          margin:0;
+          padding:0;
         }
       </style>
       <div class="container">
