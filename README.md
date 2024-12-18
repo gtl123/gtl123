@@ -1,4 +1,10 @@
-<img src="pexels-pixabay-355465.jpg" alt="GitHub Banner" width="100%" />
+<style>
+  body {
+ background-image: "pexels-pixabay-355465.jpg";
+ background-color: #cccccc;
+ }
+</style>
+<!-- <img src="pexels-pixabay-355465.jpg" alt="GitHub Banner" width="100%" /> -->
 
 
 <h2 align="left">Hello World!, I'm Gaurav, a Scottish Software Developer 👋</h2>
