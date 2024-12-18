@@ -1,5 +1,4 @@
 ![Header](./header.svg)
-<!-- <img src="pexels-pixabay-355465.jpg" alt="GitHub Banner" width="100%" /> -->
 ## Hello World!, I'm Gaurav, a Scottish Software Developer 👋 
 ### 🛜 currently working on my own Raspberry Pi 
 ### 👨🏼‍🎓 studying media computer science at S5 
@@ -8,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gtl123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtl123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-<!-- <img align="right" height="150" src="https://i.imgflip.com/4bd1a0.gif"/> -->
-
 ###
 # 💻 Tech Stack:
 <div align="left">
