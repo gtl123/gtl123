@@ -11,7 +11,7 @@
           height: 100%;
           background-color: black; color: white;
           background-size: cover;
-          color: white;
+          color: #ff99ff;
           font-family: Arial, sans-serif;
         }
         .header {
@@ -20,6 +20,8 @@
         }
         .content {
           font-size: 1.2em;
+          align-items: center;
+          color: #ff99ff;
         }
       </style>
       <div class="container">
