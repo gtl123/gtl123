@@ -1,8 +1,5 @@
 ![Header](./header.svg)
 <!-- <img src="pexels-pixabay-355465.jpg" alt="GitHub Banner" width="100%" /> -->
-
-
-
 ## Hello World!, I'm Gaurav, a Scottish Software Developer 👋 
 ### 🛜 currently working on my own Raspberry Pi 
 ### 👨🏼‍🎓 studying media computer science at S5 
