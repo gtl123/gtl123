@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="pexels-pixabay-355465.jpg" alt="GitHub Banner" width="100%" />
 
 
 <h2 align="left">Hello World!, I'm Gaurav, a Scottish Software Developer 👋</h2>
