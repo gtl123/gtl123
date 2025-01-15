@@ -1,6 +1,6 @@
 ![Header](./header.svg)
 ## Hello World!, I'm Gaurav, a Scottish Software Developer 👋 
-### 🛜 currently working on software for my  Raspberry Pi 
+### 🛜 currently working on  building  mobile apps using JS and developing software for my  Raspberry Pi 
 ### 👨🏼‍🎓 studying computer science at S5 (Senior 5)
 ### 👨🏼‍💻 learning computing skills since 2019
 
